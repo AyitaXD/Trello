@@ -58,6 +58,7 @@ h1 {
   text-align: left;
   float: left;
   margin: 20px;
+  cursor: pointer;
 }
 
 .lista {
